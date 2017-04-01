@@ -1,2 +1,2 @@
-# prtfl.io
-Public issue board for [prtfl.io](https://prtfl.io): Feedback, Feature Requests or Bug Reports welcome!
+# ProgrammerCV
+Public issue board for [ProgrammerCV](https://programmercv.com): Feedback, Feature Requests or Bug Reports welcome!
